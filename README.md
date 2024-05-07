@@ -116,20 +116,5 @@ int main() {
 ## OUTPUT
 ![osexp02-3](https://github.com/allenjoveth/Linux-Process-API-fork-wait-exec/assets/139422287/a2fd4001-7760-44c9-a358-aaabc95e0f51)
 
-
-
-
-
-
-
-
-
 # RESULT:
 The programs are executed successfully.
-
-
-
-
-
-
-
